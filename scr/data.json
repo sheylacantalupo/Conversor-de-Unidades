@@ -1,0 +1,38 @@
+[
+	{
+		"grandeza": "Comprimento",
+		"unidades": {
+			"mm": 0.001,
+			"cm": 0.01,
+			"dm": 0.1,
+			"m": 1,
+			"dam": 10,
+			"hm": 100,
+			"km": 1000
+		}
+	},
+	{
+		"grandeza": "Massa",
+		"unidades": {
+			"mm": 0.001,
+			"cm": 0.01,
+			"dm": 0.1,
+			"m": 1,
+			"dam": 10,
+			"hm": 100,
+			"km": 1000
+		}
+	},
+	{
+		"grandeza": "Densidade",
+		"unidades": {
+			"mm": 0.001,
+			"cm": 0.01,
+			"dm": 0.1,
+			"m": 1,
+			"dam": 10,
+			"hm": 100,
+			"km": 1000
+		}
+	}
+]
